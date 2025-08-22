@@ -5,7 +5,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 st.markdown("""
 <style>
 .stApp {
-  background-color: #fff0e6;
+  background-color: #f0e6ff;
 }
 </style>
 """, unsafe_allow_html=True)
